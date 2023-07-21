@@ -1,2 +1,2 @@
-1. skeleton
+1. skeleton DONE
 2. figure out credentials.json
